@@ -1,4 +1,5 @@
 package br.com.cryptomonitor.model
+import retrofit2.Response;
 
 class TickerResponse(
     val ticker: Ticker
